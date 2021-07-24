@@ -1,0 +1,4 @@
+W:       D,B,C,A
+X:       D,B,A,C
+Y:       A,D,B,C
+Z:       B,A,D,C
