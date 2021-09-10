@@ -6,7 +6,7 @@ APIs  to access data from the Water Atlas:
  - Docs: https://dev.api.wateratlas.usf.edu/Docs
 
 On files here:
-* Code/ convention used in data 
+* Code/ [convention used in data](https://github.com/biplav-s/course-tai/blob/main/sample-code/common-data/water/WA-Quality-Assurance-Code-Definitions.pdf) 
 
 * For single lake doc, see related [.pdf file](https://github.com/biplav-s/course-tai/blob/main/sample-code/common-data/water/WaterAtlas-OneLake-doc.pdf)
 
