@@ -1,10 +1,11 @@
 WaterAtlas details:
 https://dev.chnep.wateratlas.usf.edu/data-download/beta/
 
-APIs that you can use to access data from the Water Atlas: 
-https://dev.api.wateratlas.usf.edu/sandbox/index.
+APIs  to access data from the Water Atlas: 
+ - Link: https://dev.api.wateratlas.usf.edu/sandbox/index
+ - Docs: https://dev.api.wateratlas.usf.edu/Docs
 
-On files here:
+An files here:
 * For single lake doc, see related .pdf file
 
 * MultiLocation data created using request made:
