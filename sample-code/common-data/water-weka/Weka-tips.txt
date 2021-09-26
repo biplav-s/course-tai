@@ -1,0 +1,12 @@
+1. CSV to arff
+   - https://pypi.org/project/csv2arff/
+   - https://github.com/christinequintana/CSV-to-ARFF
+
+2. arff to csv
+   - https://github.com/haloboy777/arfftocsv
+
+3. CSV cleaning
+   - http://csvlint.io/
+
+4. Feature selection
+   - https://machinelearningmastery.com/perform-feature-selection-machine-learning-data-weka/
