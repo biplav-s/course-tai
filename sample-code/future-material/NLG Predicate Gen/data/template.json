@@ -1,0 +1,11 @@
+{  "predicates": [
+        {"name": "on",
+         "numargs": 2,
+         "description": "Block $1 is on Block $2"
+        },
+        {"name": "arm-empty",
+         "numargs": 1,
+         "description": "Arm $1 is empty"
+        }   
+  ]
+}
