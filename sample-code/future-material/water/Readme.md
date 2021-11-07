@@ -1,6 +1,6 @@
 # Spotlight on Student Projects
 
-## Data:
+## Data
 1. Water treatment data - Weka comes with water treatment data. 
 *	Description: https://archive.ics.uci.edu/ml/datasets/water+treatment+plant 
 *	Local cache: https://github.com/biplav-s/course-tai/tree/main/sample-code/common-data/water-weka 
