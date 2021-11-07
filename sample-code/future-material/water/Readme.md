@@ -16,3 +16,7 @@
   * Range with SAFE-pH: 6.5-7.7, Purple color Unsafe, Green color Safe
 * **Notable**: Reference to applicable laws, classification with visualization
 
+2. By Raxit Goswami and Mark Valentino (for team Quiz 2)
+* Analysis of Water Atlas data for one location (Quiz 1) and multiple locations (Quiz 2): https://github.com/goswamiraxit/TrustedAIP
+* **Notable**: Handling of noisy data
+
